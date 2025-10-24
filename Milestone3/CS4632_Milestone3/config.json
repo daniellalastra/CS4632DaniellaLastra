@@ -1,0 +1,11 @@
+{
+  "simulation_time": 480,
+  "num_triage_nurses": 2,
+  "num_doctors": 3,
+  "arrival_rate": 0.1,
+  "triage_rate": 0.2,
+  "treatment_rate": 0.067,
+  "random_seed": 42,
+  "data_collection_interval": 5,
+  "output_directory": "simulation_runs"
+}
